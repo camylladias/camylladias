@@ -4,9 +4,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camylladias&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
-  ##
  
-<div> 
+<div align="center"> 
  
   ![Snake animation](https://github.com/camylladias/camylladias/blob/output/github-contribution-grid-snake.svg)
  
