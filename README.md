@@ -1,12 +1,12 @@
-<div align="center">
-  <a href="https://github.com/camylladias">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=camylladias&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camylladias&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-  
- 
-<div align="center"> 
- 
-  ![Snake animation](https://github.com/camylladias/camylladias/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+### Olá! :cloud:👩🏻‍💻
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=Camylla Dias&theme=dracula">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right">
+
+Ciência da Computação no [Centro Universitário FEI](https://portal.fei.edu.br/ciencia-da-computacao)<br/> 
+Solution Area Specialist Azure na [Accenture Brasil](https://www.accenture.com/br-pt)
+
+
+<img width='325px' src="https://github-readme-stats.vercel.app/api?username=camylladias&theme=radical">
+
+<img width='325px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=camylladias&hide=html&layout=compact&theme=radical">
